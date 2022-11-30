@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "name": "Deep",
+      "username": "Chandra",
+      "email": "bhuvanajso@gmail.com",
+      "phone": "8888888889",
+      "website": "www.youtube.com",
+      "": "g",
+      "id": 2
+    },
+    {
+      "name": "Bhuvan chandra joshi",
+      "username": "joshi1",
+      "email": "bhuvanjoshi923@gmail.com",
+      "phone": "7579247217",
+      "website": "www.youtube.com",
+      "id": 3
+    },
+    {
+      "name": "Anuj",
+      "username": "Semwal",
+      "email": "semwal@gmail.com",
+      "phone": "7579444444",
+      "website": "www,facebook.com",
+      "id": 4
+    },
+    {
+      "name": "Bhuvan chandra joshi",
+      "username": "bhuvan",
+      "email": "bhuban@mail.com",
+      "phone": "7579237217",
+      "website": "youtube.com",
+      "id": 5
+    },
+    {
+      "name": "Bhuvan chandra joshi",
+      "username": "bhuvanjoshi@gmail.com",
+      "email": "testram923@gmail.com",
+      "phone": "7579237217",
+      "website": "youtube.com",
+      "id": 6
+    },
+    {
+      "name": "Bhuvan chandra joshi",
+      "username": "bhuvanjoshi@gmail.com",
+      "email": "testram923@gmail.com",
+      "phone": "7579237217",
+      "website": "youtube.com",
+      "id": 7
+    },
+    {
+      "name": "Bhuvan chandra joshi",
+      "username": "bhuvanjoshi@gmail.com",
+      "email": "harris.fazal@sabpaisa.in",
+      "phone": "7579237217",
+      "website": "youtube.com",
+      "id": 8
+    },
+    {
+      "name": "rama",
+      "username": "bhuvanjoshi@gmail.com",
+      "email": "ramtest@gmailcom",
+      "phone": "7579237217",
+      "website": "youtube.com",
+      "id": 9
+    },
+    {
+      "name": "Bhuvi joshi",
+      "username": "bhuvanjoshi@gmail.com",
+      "email": "bhuvanjoshi923@gmail.com",
+      "phone": "7579237217",
+      "website": "youtube.com",
+      "id": 10
+    }
+  ]
+}

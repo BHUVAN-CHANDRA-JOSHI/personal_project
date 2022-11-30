@@ -1,0 +1,42 @@
+.not-found{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.mr-2
+{
+  margin-right:20px;
+}
+.sample{
+  background-color: black;
+  color: white;
+}
+form{
+  margin-left: 300px;
+  margin-right: 200px;
+  padding-top: 100px;
+}
+h2{
+  width: 75%;
+  padding: 5;
+  align-items: center;
+}
+.btn btn-primary btn-block{
+  color: black;
+}
+.bhuvi{
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 70px;
+  padding: 9px;
+}
+
+button{
+  color:red;
+}
